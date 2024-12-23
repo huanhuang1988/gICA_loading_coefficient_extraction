@@ -84,5 +84,5 @@ This script is provided under the MIT License. Feel free to modify and distribut
 ---
 
 ## Contact
-For questions or issues, please raise an issue in this repository or contact the author (email: huanhuang1988@gmai.com) directly.
+For questions or issues, please raise an issue in this repository or contact the author (email: huanhuang1988@gmail.com) directly.
 
